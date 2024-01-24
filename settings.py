@@ -1,0 +1,6 @@
+API_TOKEN = '6772375152:AAHoqY2lWiq_87pAeCgWpwlNIa8aHq8-Hfk'
+
+VOICE_LANGUAGE = 'ru-RU'
+
+MAX_MESSAGE_SIZE = 1000 * 50  # in bytes
+MAX_MESSAGE_DURATION = 15  # in seconds
